@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BodyMovement.unity
+    guid: 9233dfca89c4b0746ac82038314da14f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7446a1435b047724b9926a80c0195d63, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: e4a62b5bbbcdc2447a7e2afc3e8660b5, type: 2}
